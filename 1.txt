@@ -2,5 +2,6 @@
 ||t1.daumcdn.net.wtxcdn.com^
 ||kakao.com^
 ||p1-play.edge4k.com^
+||p2-play.edge4k.com^
 ||p1-play.kgslb.com^
 
