@@ -1,7 +1,6 @@
-211.231.100.81, track.tiara.g.daum.net
-210.61.207.134, t1.daumcdn.net.wtxcdn.com
-203.133.172.30,
-211.231.101.168, play.kakao.com
-113.29.187.3, p1-play.edge4k.com
-211.231.100.67, p1-play.kgslb.com
-113.29.186.68, play.gl.kakao.com
+||track.tiara.g.daum.net^
+||t1.daumcdn.net.wtxcdn.com^
+||kakao.com^
+||p1-play.edge4k.com^
+||p1-play.kgslb.com^
+
