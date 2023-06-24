@@ -5,4 +5,3 @@
 ||p2-play.edge4k.com^
 ||p1-play.kgslb.com^
 ||doubleclick.net^$domain=~google.com
-
