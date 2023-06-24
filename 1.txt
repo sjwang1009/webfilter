@@ -4,5 +4,5 @@
 ||p1-play.edge4k.com^
 ||p2-play.edge4k.com^
 ||p1-play.kgslb.com^
-||*.g.doubleclick.net^
-||*.googlesyndication.com^
+||doubleclick.net^$domain=~google.com
+
